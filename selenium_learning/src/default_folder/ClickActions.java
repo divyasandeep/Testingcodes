@@ -34,6 +34,5 @@ public class ClickActions {
 		String s=error.getText();
 		System.out.println("error message is   "+s);
 		
-		
-}
+	}
 }
